@@ -1,6 +1,6 @@
 # Projeto Integrador - 7º Período de Sistemas de Informação
 
-Este repositório contém o projeto integrador desenvolvido pela turma do 7º período de Sistemas de Informação da instituição X. O projeto visa integrar os conhecimentos adquiridos ao longo do curso em uma aplicação prática.
+Este repositório contém o projeto integrador desenvolvido pela turma do 7º período de Sistemas de Informação. O projeto visa integrar os conhecimentos adquiridos ao longo do curso em uma aplicação prática.
 
 ## Equipe
 
