@@ -5,14 +5,14 @@ Este repositório contém o projeto integrador desenvolvido pela turma do 7º pe
 ## Equipe
 
 - Matheus Monthay
-- Marco
+- Marcos
 - Jefferson
 - Leonardo
 - Willianes
 
 ## Descrição
 
-O projeto consiste em [descrever brevemente a proposta e o objetivo do projeto].
+O projeto consiste em um sistema de finanças onde é possivel o usuario adicionar creditos e debitos e fazer consultas no mesmo.
 
 ## Tecnologias Utilizadas
 
@@ -27,7 +27,7 @@ Para executar o projeto localmente, siga as instruções abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/MatheusMonthay/Projeto-Integrador.git)https://github.com/MatheusMonthay/Projeto-Integrador.git
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/MatheusMonthay/Projeto-Integrador.git)https://github.com/MatheusMonthay/Projeto-Integrador.git
 
 2. Depois rode as migration
    ```bash
