@@ -2,6 +2,8 @@
 
 Este repositório contém o projeto integrador desenvolvido pela turma do 7º período de Sistemas de Informação. O projeto visa integrar os conhecimentos adquiridos ao longo do curso em uma aplicação prática.
 
+[Clique aqui](https://docs.google.com/document/d/1bM5YcQr_OfjR_HMrq4n_XSJP_TV3YaMk/edit#bookmark=id.gjdgxs) para ser redirecionado para a documentação do projeto.
+
 ## Equipe
 
 - Matheus Monthay
@@ -20,10 +22,6 @@ O projeto consiste em um sistema de finanças onde é possivel o usuario adicion
 - Banco de Dados: MySql
 - Frameworks: Laravel 10
 - Outras tecnologias: Booststrap
-
-## Link do arquivo doc referente ao trabalho
-
-    [Clique aqui](https://docs.google.com/document/d/1bM5YcQr_OfjR_HMrq4n_XSJP_TV3YaMk/edit#bookmark=id.gjdgxs) para ser redireciona para o arquivo
 
 ## Como Executar o Projeto
 
