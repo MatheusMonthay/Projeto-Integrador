@@ -9,7 +9,7 @@
         <div class="col-6">
             <div class="form-group">
                 Valor:
-                <input type="number" step="0.01" name="balance" class="form-control">
+                <input type="number" step="0.01" name="balance" class="form-control" required min="0">
             </div>
         </div>
         <div class="col-6">
@@ -30,12 +30,12 @@
         </div>
         <div class="col-6">
             <div class="form-group">
-                Descrição: <input type="text" name="description" class="form-control">
+                Descrição: <input type="text" name="description" class="form-control" required>
             </div>
         </div>
         <div class="col-6">
             <div class="form-group">
-                Data: <input type="date" name="dt_cad" class="form-control">
+                Data: <input type="date" name="dt_cad" class="form-control" required>
             </div>
         </div>
         <input type="string" name="id_user" value="{{Auth::user()->id}}" style="display: none;">
