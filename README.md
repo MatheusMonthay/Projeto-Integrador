@@ -36,6 +36,7 @@ Para executar o projeto localmente, siga as instruções abaixo:
    composer install
 
 3. Configure o Arquivo de Ambiente
+   
       O Laravel requer um arquivo .env para configurar variáveis de ambiente, como conexões de banco de dados e chaves de aplicativo. Por padrão, o Laravel vem com um arquivo .env.example que você deve copiar para .env:
    ```bash
    cp .env.example .env
